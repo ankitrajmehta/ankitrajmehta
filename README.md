@@ -23,17 +23,37 @@
 ## Programming Languages And Tools
 
 <p align="center">
-	<img style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"  width="70" height="70"/>
-	<img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70"/>
-    <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/>
-    <img style="padding:5px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/>
-    <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="70" height="70"/>
-    <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"width="70" height="70"/>
-    <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="70" height="70"/>
-    <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="70" height="70"/>
-    <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="70" height="70"/>
-    <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"width="70" height="70"/>
-    <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" width="70" height="70"/>
+	</a>
+    <a target="blank" herf="https://www.python.org/"> 
+        <img style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"  width="70" height="70"/>
+	</a>
+    <a target="blank" herf="https://www.cprogramming.com/"> 
+        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70"/>
+    </a>
+    <a target="blank" herf="https://www.w3.org/html/"> 
+        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/>
+    </a>
+    <a target="blank" herf="https://www.w3schools.com/css/"> 
+        <img style="padding:5px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/>
+    </a>
+    <a target="blank" herf="https://flask.palletsprojects.com/"> 
+        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="70" height="70"/>
+    </a>
+    <a target="blank" herf="https://getbootstrap.com/"> 
+        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"width="70" height="70"/>
+    </a>
+    <a target="blank" herf="https://www.djangoproject.com/"> 
+        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="70" height="70"/>
+    </a>
+    <a target="blank" herf="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
+        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="70" height="70"/>
+    </a>
+    <a target="blank" herf="https://wordpress.com"> 
+        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="70" height="70"/>
+    </a>
+    <a target="blank" herf="https://tailwindcss.com"> 
+        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"width="70" height="70"/>
+    </a>
+    <a target="blank" herf="https://sqlite.org"> 
+        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" width="70" height="70"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrajmehta&show_icons=true&locale=en&layout=compact" alt="gyaneshwar01" /></p>
