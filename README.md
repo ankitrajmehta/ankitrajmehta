@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there 👋, I am Ankit Raj Mehta </h1>
-<h3 align="center">I'm a python developer who aslo loves to learn new things</h3>
+<h3 align="center">I'm a Python developer who also loves to learn new things</h3>
 
 
 
 -  I'm a **Developer | Learner**
--  I’m currently learning **Machine learning** and **Web Development**
+-  I’m currently learning **Machine learning**
 -  How to reach me: ankitrajmehta16@gmail.com
 
 
