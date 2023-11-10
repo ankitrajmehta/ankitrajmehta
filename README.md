@@ -46,7 +46,7 @@
         <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="70" height="70"/>
     </a>
     <a href="https://www.tensorflow.org" target="_blank" > 
-	    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70" height="70"/> </a> </p>
+	    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70" height="70"/> </a> 
     <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
         <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="70" height="70"/>
     </a>
