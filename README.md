@@ -1,12 +1,4 @@
 <h1 align="center"> Hi there 👋, I am Ankit Raj Mehta </h1>
-<h3 align="center">I'm a Python developer who also loves to learn new things</h3>
-
-
-
--  I'm a **Developer | Learner**
--  I’m currently learning **Machine learning**
--  How to reach me: ankitrajmehta16@gmail.com
-
 
 ## Get In Touch With
 
@@ -19,31 +11,3 @@
 </a>    
 </p>
 
-
-## Programming Languages And Tools
-
-<p align="center">
-	</a>
-    <a target="_blank" href="https://www.python.org/"> 
-        <img style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"  width="70" height="70"/>
-	</a>
-    <a target="_blank" href="https://www.cprogramming.com/"> 
-        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70"/>
-    </a>
-    <a target="_blank" href="https://www.w3.org/html/"> 
-        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70"/>
-    </a>
-    <a target="_blank" href="https://www.w3schools.com/css/"> 
-        <img style="padding:5px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/>
-    </a>
-    <a target="_blank" href="https://flask.palletsprojects.com/"> 
-        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="70" height="70"/>
-    </a>
-    <a target="_blank" href="https://www.djangoproject.com/"> 
-        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="70" height="70"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank" > 
-	    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70" height="70"/> </a> 
-    <a target="_blank" href="https://sqlite.org"> 
-        <img style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" width="70" height="70"/>
-</p>
