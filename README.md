@@ -2,7 +2,7 @@
 
 <h3 align="center">Just building stuff I find interesting</h3>
 
-<h3 align="center">## Get In Touch With</h3>
+<h2 align="center">Get In Touch With</h2>
 
 <p align="center">
     <a target="_blank" href="https://www.instagram.com/ankit.raj_mehta/"><img style="padding:5px" alt="twitter-ankitraj_mehta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
