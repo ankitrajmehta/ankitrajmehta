@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there 👋, I am Ankit Raj Mehta </h1>
 
+<h3 align="center">Just building stuff I find interesting</h3>
+
 ## Get In Touch With
 
 <p align="center">
